@@ -1,4 +1,4 @@
-# Pygame-project
+# Pygame Palooza
 Baloon shoot game
 Game Rules to keep in mind:
 
